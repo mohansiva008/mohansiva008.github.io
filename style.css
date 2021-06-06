@@ -219,4 +219,6 @@ footer{
     padding-top: 35px;
     text-align: left;
 }  
-
+.flex_footer_container a:hover {
+    color: aqua !important;
+}
